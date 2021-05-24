@@ -55,7 +55,7 @@ var str2 = str.replaceAll('a', 'º')
 				  .replaceAll('Z', '}')
 alert(str2)
 }
-function dec()
+function dec(){
 var str =  prompt("Insert text to decrypt:");
 var str2 = str.replaceAll('º', 'a')
               .replaceAll('ª', 'b')
@@ -84,4 +84,4 @@ var str2 = str.replaceAll('º', 'a')
 	    			  .replaceAll('{', 'y')
 	    			  .replaceAll('}', 'z')
 
-alert(str2)
+alert(str2)}
