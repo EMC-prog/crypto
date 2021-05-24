@@ -8,4 +8,4 @@ The actual features that are in the program are:
 - Easy encryption (Sadly, signs are not allowed due to the use that has on the encrypted message).
 - Free to use.
 - Easy-to-change encryption.
-- Online (No downloads or updates).
+- Almost online (Only an html file is needed).
