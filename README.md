@@ -1,7 +1,7 @@
 # Crypto
 Encrypt your messages with your friends for another layer of security!
 
-Made with HTML and JS, this program is easy to use without problems and online, so you won't have to update anything!
+Made with HTML and JS, this program is easy to use, and anyone can make his own encryption.
 
 ## Features
 The actual features that are in the program are:
